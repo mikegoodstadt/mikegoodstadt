@@ -1,4 +1,5 @@
-### Hi! 👋 Here you will find my personal/private projects. There are also training and StackBlitz examples which may be of interest.
+### Hi! 👋 Here you will find my personal projects, packages and demo code.
+There are also complete training excercies and StackBlitz pracitce samples.
 
 - 🔭 I’m currently working on Angular and Ionic apps for complex and multi-dimensional datasets.
 - 🌱 I’m currently learning/brushing-up on React, Vue and whatever is the latest trend...
